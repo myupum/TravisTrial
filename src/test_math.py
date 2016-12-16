@@ -1,7 +1,7 @@
 from Math import Math
 
 def test_add():
-    assert Math.add(10, 4) == 14
+    assert Math.add(10, 4) == 15
 
 def test_subtract():
     assert Math.subtract(10, 10) == 0
